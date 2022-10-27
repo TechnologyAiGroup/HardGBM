@@ -1,5 +1,5 @@
 # HardGBM Project
-This is the website hosting the code and data in the submitted paper,"HardGBM".
+This is the website hosting the code and data.
 ### Directory structure:
 This project contains the following directories:
 - GBM/ directory containing open source datasets from UCI, Kaggle and data.world, our proposed ensemble learning method, and the generated Verilog code for hardware simulation experiments.
